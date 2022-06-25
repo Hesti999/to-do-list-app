@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hesti999/to-do-list-app.git/static/css/main.e40ababc.css",
+    "main.js": "/Hesti999/to-do-list-app.git/static/js/main.1ef25ef0.js",
+    "index.html": "/Hesti999/to-do-list-app.git/index.html",
+    "main.e40ababc.css.map": "/Hesti999/to-do-list-app.git/static/css/main.e40ababc.css.map",
+    "main.1ef25ef0.js.map": "/Hesti999/to-do-list-app.git/static/js/main.1ef25ef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e40ababc.css",
+    "static/js/main.1ef25ef0.js"
+  ]
+}
